@@ -1,14 +1,13 @@
 # LunaGC-5.4.0
+
+## This is possibly the only public PS with Mob spawns in Fontaine and Natlan
 ## A better, more functional version of the holy Grasscutter
-Old Discord https://discord.gg/8vSyTHVphj
-## Big update soon, probably..
-Please contribute actively to this repository
+
+Old Discord for LunaGC https://discord.gg/8vSyTHVphj (don't ask for support there, instead create an issue in this repository)
 
 # Setup Guide
 
-This guide is very minimal and contains steps to just get your server and client up and running.
-
-## You'll need to patch the game to even enter the game world (see below).
+This guide is very minimal and contains steps to just get your server and client up and running.  
 
 ## Read the handbook (found at the end of the file)
 
